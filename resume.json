@@ -1,0 +1,48 @@
+{
+    "details": {
+      "name": "Kowsik K M",
+      "label": "Student",
+      "image":  "https://drive.google.com/file/d/1REF9lzQOdYg8PBC6sfjjHC-8U85EJ84J/view?usp=sharing",
+      "email": "kowsik0@gmail.com",
+      "phone": ["8825705425", "9952168875"],
+      
+      "location": {
+        "address": "N0.166,BR min street,dharapuram",
+        "postalCode": "638656",
+        "city": "Tirupur",
+        "country": "India",
+        "state": "TamilNadu"
+      }
+},
+
+    "profile": {
+     "instagram": "kowsikkm",
+     "facebook": "kowsikkm"   
+    },
+
+    "SchoolQualification": [{
+      "10th": 90.9,
+      "12th": 75.6
+      
+    }],
+
+    "education": [{
+        "institution": "SRMUniversity",
+        "area": "HotelManagement",
+        "score": "9.3/10"}],
+
+    "hobbies":["designing","writing","photoshop"],
+
+    "experience": ["Zero Experience"]
+
+}
+
+
+      
+
+       
+    
+    
+ 
+
+
